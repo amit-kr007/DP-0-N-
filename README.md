@@ -1,7 +1,6 @@
 # DP-0-N-
 # Longest Increasing Subsequence | DP-3
 bottom up solution
-
 test=int(input())
 while(test>0):
     n=int(input())
